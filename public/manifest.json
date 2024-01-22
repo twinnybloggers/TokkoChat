@@ -1,24 +1,24 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tokko Chat - Chat Community About Blogger",
+  "name": "Ayo Gabung Bersama Kami di Tokko Chat - Diskusi Membahas seputar Blogger",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://firebasestorage.googleapis.com/v0/b/tokko-login.appspot.com/o/pfp%2Fgnnj9dqsCecwk83U35OELHTOnua2%2FTB.pngc6df4639-db34-4785-a9e9-5a6b2ed4dbe7?alt=media&token=a3c0d18a-5549-4440-a0a4-bd4f1be27ef4",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEj4C7uFuOwRsunpbN7aVeAR0JBV7Gm092het3w4AmFJwjbffZZUytbWhazlLKp78it8L8PfXdH3B44DRvTtQJ8DDhtzrDEvJk04Hri9WdfebtbYEx_ktC1GzV-KwfZblnJkcnXrV0CXha6tJQAc2NCTnlmfjnIdbS6vZF1n_SIwt9l9LYqTHZnZF0ktVg=s252",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEj4C7uFuOwRsunpbN7aVeAR0JBV7Gm092het3w4AmFJwjbffZZUytbWhazlLKp78it8L8PfXdH3B44DRvTtQJ8DDhtzrDEvJk04Hri9WdfebtbYEx_ktC1GzV-KwfZblnJkcnXrV0CXha6tJQAc2NCTnlmfjnIdbS6vZF1n_SIwt9l9LYqTHZnZF0ktVg=s252",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://tokko-chat-two.vercel.app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
